@@ -7,7 +7,6 @@
 
 //blabla testzone blabla
 //test.......
-//blalaö
 
 #include "ctrl_main_gr7.h"
 #include "namespace_ctrl.h"
